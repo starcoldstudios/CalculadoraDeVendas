@@ -1,0 +1,15 @@
+C:\Users\escri\Downloads\Calculadora de Vendas\Calculadora de Vendas\bin\Release\net6.0\Calculadora de Vendas.exe
+C:\Users\escri\Downloads\Calculadora de Vendas\Calculadora de Vendas\bin\Release\net6.0\Calculadora de Vendas.deps.json
+C:\Users\escri\Downloads\Calculadora de Vendas\Calculadora de Vendas\bin\Release\net6.0\Calculadora de Vendas.runtimeconfig.json
+C:\Users\escri\Downloads\Calculadora de Vendas\Calculadora de Vendas\bin\Release\net6.0\Calculadora de Vendas.dll
+C:\Users\escri\Downloads\Calculadora de Vendas\Calculadora de Vendas\bin\Release\net6.0\Calculadora de Vendas.pdb
+C:\Users\escri\Downloads\Calculadora de Vendas\Calculadora de Vendas\obj\Release\net6.0\Calculadora de Vendas.csproj.AssemblyReference.cache
+C:\Users\escri\Downloads\Calculadora de Vendas\Calculadora de Vendas\obj\Release\net6.0\Calculadora de Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\escri\Downloads\Calculadora de Vendas\Calculadora de Vendas\obj\Release\net6.0\Calculadora de Vendas.AssemblyInfoInputs.cache
+C:\Users\escri\Downloads\Calculadora de Vendas\Calculadora de Vendas\obj\Release\net6.0\Calculadora de Vendas.AssemblyInfo.cs
+C:\Users\escri\Downloads\Calculadora de Vendas\Calculadora de Vendas\obj\Release\net6.0\Calculadora de Vendas.csproj.CoreCompileInputs.cache
+C:\Users\escri\Downloads\Calculadora de Vendas\Calculadora de Vendas\obj\Release\net6.0\Calculadora de Vendas.dll
+C:\Users\escri\Downloads\Calculadora de Vendas\Calculadora de Vendas\obj\Release\net6.0\refint\Calculadora de Vendas.dll
+C:\Users\escri\Downloads\Calculadora de Vendas\Calculadora de Vendas\obj\Release\net6.0\Calculadora de Vendas.pdb
+C:\Users\escri\Downloads\Calculadora de Vendas\Calculadora de Vendas\obj\Release\net6.0\Calculadora de Vendas.genruntimeconfig.cache
+C:\Users\escri\Downloads\Calculadora de Vendas\Calculadora de Vendas\obj\Release\net6.0\ref\Calculadora de Vendas.dll

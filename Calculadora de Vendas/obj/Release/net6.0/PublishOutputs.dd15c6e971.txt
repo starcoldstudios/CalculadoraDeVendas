@@ -1,0 +1,5 @@
+C:\Users\escri\Downloads\Calculadora de Vendas\Builds\Calculadora de Vendas.exe
+C:\Users\escri\Downloads\Calculadora de Vendas\Builds\Calculadora de Vendas.dll
+C:\Users\escri\Downloads\Calculadora de Vendas\Builds\Calculadora de Vendas.deps.json
+C:\Users\escri\Downloads\Calculadora de Vendas\Builds\Calculadora de Vendas.runtimeconfig.json
+C:\Users\escri\Downloads\Calculadora de Vendas\Builds\Calculadora de Vendas.pdb
